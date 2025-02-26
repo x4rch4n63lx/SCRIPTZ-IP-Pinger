@@ -1,4 +1,4 @@
-#SCRIPTZ-IP-Pinger V2
+SCRIPTZ-IP-Pinger V2
 
 Description: SCRIPTZ-IP-Pinger V2 is an updated version of the original IP Pinger script. This script checks the availability of a target IP address and provides a color-coded output indicating the status of the target.
 
